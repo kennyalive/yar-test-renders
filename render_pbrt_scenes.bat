@@ -1,0 +1,1 @@
+d:\YAR\build\Release\RAY.exe pbrt_scenes.list --directory d:\renders\checkpoints\%1 --spp 4
