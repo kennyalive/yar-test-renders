@@ -1,1 +1,1 @@
-d:\YAR\build\Release\RAY.exe pbrt_scenes.list --directory d:\renders\checkpoints\%1 --spp 4
+\YAR\build\Release\RAY.exe pbrt_scenes.list --directory \renders\yar-test-renders\%1 --spp 4
