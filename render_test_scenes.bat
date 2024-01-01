@@ -1,1 +1,0 @@
-\YAR\build\Release\RAY.exe test_scenes.list --directory \renders\yar-test-renders\%1

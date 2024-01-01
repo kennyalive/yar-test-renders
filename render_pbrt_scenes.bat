@@ -1,1 +1,0 @@
-\YAR\build\Release\RAY.exe pbrt_scenes.list --directory \renders\yar-test-renders\%1 --spp 4
