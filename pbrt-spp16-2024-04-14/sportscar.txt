@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\pbrt-v3-scenes\sportscar\sportscar.pbrt
+yar_spp 16
+yar_variance 0.004189
+yar_load_time 2.388144
+yar_render_time 9.852745
