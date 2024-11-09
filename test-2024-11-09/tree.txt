@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\yar-test-scenes\tree.pbrt
+yar_spp 16
+yar_variance 0.000192
+yar_load_time 2.336702
+yar_render_time 2.773868
