@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\pbrt-v3-scenes\veach-mis\mis.pbrt
+yar_spp 256
+yar_variance 0.056763
+yar_load_time 0.056802
+yar_render_time 17.200157

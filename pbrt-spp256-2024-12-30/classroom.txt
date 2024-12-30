@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\benedikt-pbrt-scenes\classroom\scene.pbrt
+yar_spp 256
+yar_variance 1.014380
+yar_load_time 0.253141
+yar_render_time 129.591324
