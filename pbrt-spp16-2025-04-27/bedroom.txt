@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\benedikt-pbrt-scenes\bedroom\scene.pbrt
+yar_spp 16
+yar_variance 0.663507
+yar_load_time 1.446988
+yar_render_time 13.054852

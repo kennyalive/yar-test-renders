@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\yar-test-scenes\two_glass_spheres.pbrt
+yar_spp 16
+yar_variance 0.041418
+yar_load_time 0.045810
+yar_render_time 2.150801
