@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\pbrt-v3-scenes\sanmiguel\sanmiguel.pbrt
+yar_spp 16
+yar_variance 0.016534
+yar_load_time 6.956474
+yar_render_time 18.880726
