@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\pbrt-v3-scenes\bmw-m6\bmw-m6.pbrt
+yar_spp 16
+yar_variance 0.011633
+yar_load_time 1.736170
+yar_render_time 4.388789
