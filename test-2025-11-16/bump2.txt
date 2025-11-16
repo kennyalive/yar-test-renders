@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\yar-test-scenes\bump2.pbrt
+yar_spp 64
+yar_variance 0.000004
+yar_load_time 0.014697
+yar_render_time 0.811130

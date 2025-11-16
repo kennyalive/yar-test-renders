@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\pbrt-v3-scenes\measure-one\frame25.pbrt
+yar_spp 16
+yar_variance 2.558395
+yar_load_time 4.413264
+yar_render_time 12.330881
