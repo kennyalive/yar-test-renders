@@ -1,0 +1,8 @@
+yar_build_version 0.0
+yar_build_asserts 1
+yar_render_device cpu
+yar_input_file \pbrt\pbrt-v3-scenes\chopper-titan\chopper-titan.pbrt
+yar_spp 16
+yar_variance 0.005810
+yar_load_time 8.146071
+yar_render_time 1.674704
