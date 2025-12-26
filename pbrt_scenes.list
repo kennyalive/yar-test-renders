@@ -18,6 +18,15 @@
 \pbrt\pbrt-v3-scenes\measure-one\frame25.pbrt
 \pbrt\pbrt-v3-scenes\villa\villa-daylight.pbrt
 \pbrt\pbrt-v3-scenes\vw-van\vw-van.pbrt
+\pbrt\pbrt-v3-scenes\chopper-titan\chopper-titan.pbrt
+\pbrt\pbrt-v3-scenes\pbrt-book\book.pbrt
+\pbrt\pbrt-v3-scenes\structuresynth\arcsphere.pbrt
+\pbrt\pbrt-v3-scenes\tt\tt.pbrt
+\pbrt\pbrt-v3-scenes\veach-bidir\bidir.pbrt
 
 \pbrt\benedikt-pbrt-scenes\bedroom\scene.pbrt
 \pbrt\benedikt-pbrt-scenes\classroom\scene.pbrt
+\pbrt\benedikt-pbrt-scenes\coffee\scene.pbrt
+\pbrt\benedikt-pbrt-scenes\cornell-box\scene.pbrt
+\pbrt\benedikt-pbrt-scenes\glass-of-water\scene.pbrt
+\pbrt\benedikt-pbrt-scenes\spaceship\scene.pbrt
